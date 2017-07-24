@@ -10,7 +10,7 @@ I hope that I can use at least some of this project in the future.
     - [ ] Quicksort
     - [ ] Mergesort
     - [ ] Stack
-    - [ ] Queue
+    - [x] Queue
 - [ ] Trees
     - [x] General Tree Structure
     - [ ] Heap
