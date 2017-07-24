@@ -7,8 +7,8 @@ I hope that I can use at least some of this project in the future.
 
 - [ ] Lists
     - [ ] Binary search
-    - [ ] Quicksort
-    - [ ] Mergesort
+    - [x] Quicksort
+    - [x] Mergesort
     - [x] Stack
     - [x] Queue
 - [ ] Trees
