@@ -9,7 +9,7 @@ I hope that I can use at least some of this project in the future.
     - [ ] Binary search
     - [ ] Quicksort
     - [ ] Mergesort
-    - [ ] Stack
+    - [x] Stack
     - [x] Queue
 - [ ] Trees
     - [x] General Tree Structure
